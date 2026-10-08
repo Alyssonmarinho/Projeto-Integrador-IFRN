@@ -6,6 +6,16 @@ Protótipo de um detector de cores com retorno sonoro, desenvolvido na disciplin
 
 Desenvolver um dispositivo capaz de identificar cores e informar o resultado ao usuário por meio de áudio, promovendo maior **autonomia e inclusão** para pessoas com deficiência visual.
 
+## Demonstração
+
+### Vídeo do protótipo
+
+[![Vídeo do protótipo funcionando](https://img.youtube.com/vi/cjDdaL6z20M/maxresdefault.jpg)](https://www.youtube.com/watch?v=cjDdaL6z20M)
+
+### Apresentação
+
+Os slides explicando o projeto estão disponíveis [neste link](https://docs.google.com/presentation/d/1XsQCt_nyhYkyqQ3EESrcrQCo_cW-yKOF43W0hZdBB_U/edit).
+
 ## Como funciona
 
 1. O sensor de cor TCS230 lê a cor do objeto.
